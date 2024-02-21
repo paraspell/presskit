@@ -1,2 +1,3 @@
-# presskit
-Presskit repository containing ParaSpell logos
+# ParaSpell✨ presskit repository
+
+Set of logos ready for media/press.
